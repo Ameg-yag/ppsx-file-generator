@@ -1,5 +1,4 @@
 # Introduction
-By Temesgen Yibeltal temu1yibeltal@gmail.com (Based on code by https://github.com/bhdresh/CVE-2017-8570 (now removed))
 
 ppsx-file-generator is a python tool that generates a power point slide show file that executes code from a remote source based on an existing file.
 
@@ -11,7 +10,7 @@ The tool generates a power point slide show file and an xml file based using the
 
 First, get the code:
 ```
-git clone https://github.com/temesgeny/ppsx-file-generator.git
+git clone https://github.com/ParsingTeam/ppsx-file-generator.git
 ```
 
 ppsx-file-generator is written in Python and requires zipfile which can be installed using Pip:
